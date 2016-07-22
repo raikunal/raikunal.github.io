@@ -1,0 +1,84 @@
+#all {
+	margin: auto;
+	width: 750px;
+}
+
+#logo {
+	float: left;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 57px
+}
+
+#navbar {
+	float: right;
+	font-size: 17px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #3333FF;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #000000;
+}
+
+#footer {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#main {
+	border: 1px solid black;
+	border-radius: 5px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#text {
+	padding: 3%;
+}
+
+#title {
+	padding: 3%;
+	width: 94%;
+	font-size: 25px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #FFFFFF;
+	background: url(362061.jpg);
+}
+
+ul {
+	list-style-type: square;
+}
+
+li {
+	margin: 10px 0;
+}
+
+a[href^="http://"]:after {
+	content: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);
+	margin: 0 0 0 5px;
+}
+
+a.PMID {
+	color: #3366BB;
+}
+
+h3 {
+	margin: 0;
+}
+
+.people {
+	width: 100%;
+	border: none;
+	padding: 20px;
+}
+
+td {
+	padding: 5px;
+}

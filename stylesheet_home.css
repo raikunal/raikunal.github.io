@@ -1,0 +1,30 @@
+a:link {
+	color: #DDDDDD;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #DDDDDD;
+}
+
+#homemain {
+	padding-top: 5%;
+	border: 2px solid black;
+	border-radius: 5px;
+	height: 60%;
+	max-height: 450px;
+	background: url(scrb4.jpg)
+}
+
+#homebar {
+	padding: 3%;
+	width: 94%;
+	font-size: 25px;
+	font-family: 'Roboto Condensed', sans-serif;
+	background: rgba(0, 0, 0, 0.8);
+}
