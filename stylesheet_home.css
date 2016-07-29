@@ -17,8 +17,10 @@ a:visited {
 	border: 2px solid black;
 	border-radius: 5px;
 	height: 60%;
-	max-height: 450px;
-	background: url(scrb4.jpg)
+	min-height: 450px;
+	max-height: 600px;
+	background: url(IMG_5802.jpg);
+	background-size: 100%;
 }
 
 #homebar {
